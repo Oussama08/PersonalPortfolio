@@ -1,26 +1,4 @@
-/* --------------------------------------------
-	
-	custom.css : main style file
-	Theme Name : Personal CV Website [Made for personal use]
-    Author : Mohammed-Yassin HAMDAOUI 
-    Version : 1.0.0
 
-    01 - GENERAL RESET
-    02 - CUSTOM ELEMENTS
-    03 - MAIN MENU
-    04 - MAIN MENU FOR MOBILE
-    05 - HEADER SECTION
-    06 - ABOUT SECTION
-    07 - RESUME SECTION
-    08 - PORTFOLIO SECTION
-    09 - MORE SECTION
-    10 - FOOTER SECTION
-	
-   -------------------------------------------- */
-
-/* --------------------------------------------
-    GENERAL RESET
-   -------------------------------------------- */
 
 * {
   -webkit-box-sizing: border-box;
@@ -738,7 +716,7 @@ nav ul.menu-list li.menu-list-item.up {
   width: 4rem;
   height: 4rem;
   background: #fff;
-  color: rgb(50, 40, 214);
+  color: rgb(196, 0, 0);
   border-radius: 100px;
   line-height: 4.2rem;
   text-align: center;
