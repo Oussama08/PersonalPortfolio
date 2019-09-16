@@ -1,7 +1,4 @@
-/* -------------------------------------
-    custom.js: Main JS File
-    Author: Mohammed-Yassin HAMDAOUI
-   ------------------------------------- */
+
 
 $(function() {
   /* 
