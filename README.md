@@ -1,5 +1,5 @@
 # PersonalPortfolio
-My Personal Resume Using HTML , CSS and JavaScript  . ( Ispired by Mohamed-yassine Hamdaoui's Work )
+My Personal Resume Using HTML , CSS and JavaScript  . ( Inspired by Mohamed-yassine Hamdaoui's Work )
 
 You Can check it out here : https://oussama08.github.io/PersonalPortfolio
 
