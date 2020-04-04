@@ -757,12 +757,15 @@ nav ul.menu-list li.menu-list-item.up {
   color: #ff2e4c;
 }
 
-.footer .fa-heart {
-  color: #ff2e4c;
+.footer .fa-code {
+  color: #1e2a78da;
 }
 
-.footer .fa-mug-hot {
-  color: rgb(180, 87, 24);
+.footer .fa-headphones {
+  color: #1e2a78da;
+}
+.footer .fa-copyright {
+  color: #1e2a78da;
 }
 /* END FOOTER SECTION */
 
