@@ -17,14 +17,14 @@ particlesJS(
   {
     particles: {
       number: {
-        value: 350,
+        value: 450,
         density: {
           enable: true,
-          value_area: 2400
+          value_area: 2600
         }
       },
       color: {
-        value: "#49DEB2"
+        value: "#ffffff"
       },
       shape: {
         type: "circle",
@@ -52,7 +52,7 @@ particlesJS(
         }
       },
       size: {
-        value: 5,
+        value: 3,
         random: true,
         anim: {
           enable: false,
