@@ -42,11 +42,11 @@ particlesJS(
         }
       },
       opacity: {
-        value: 0.5,
+        value: 0.1,
         random: false,
         anim: {
           enable: false,
-          speed: 1,
+          speed: 5,
           opacity_min: 0.1,
           sync: false
         }
@@ -70,7 +70,7 @@ particlesJS(
       },
       move: {
         enable: true,
-        speed: 6.5,
+        speed: 8.5,
         direction: "none",
         random: false,
         straight: false,
