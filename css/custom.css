@@ -345,6 +345,7 @@ nav ul.menu-list li.menu-list-item.up {
 }
 
 .profile-pic img:hover {
+  
 }
 
 .social-networks {
@@ -368,6 +369,7 @@ nav ul.menu-list li.menu-list-item.up {
 .social-networks i:hover {
   opacity: 1;
   font-size: 105%;
+  color: #00adad;
 }
 
 /* MEDIA QUERIES */
@@ -391,7 +393,7 @@ nav ul.menu-list li.menu-list-item.up {
 }
 
 .about-desc + a.btn-custom {
-  background-color: #00363a;
+  background-color: #008b8b;
 }
 
 /* --------------------------------------------
@@ -400,7 +402,7 @@ nav ul.menu-list li.menu-list-item.up {
 
 .timeline-item {
   padding-left: 1.3rem;
-  border-left: 2px solid #00363a;
+  border-left: 2px solid #019494;
 }
 
 .timeline-item:not(:last-child) {
@@ -413,13 +415,13 @@ nav ul.menu-list li.menu-list-item.up {
   font-weight: 700;
   padding-bottom: 5px;
   text-transform: uppercase;
-  color: #00363a;
+  color: #019494;
   font-family: "Roboto Mono", monospace;
   position: relative;
 }
 
 .timeline-item-title:hover::before {
-  background-color: #00363a;
+  background-color: #019494;
 }
 
 .timeline-item-title:hover {
@@ -433,7 +435,7 @@ nav ul.menu-list li.menu-list-item.up {
   left: -28px;
   width: 12px;
   height: 12px;
-  border: 2px solid #00363a;
+  border: 2px solid #019494;
   background-color: #fff;
   border-radius: 100px;
 }
@@ -454,7 +456,7 @@ nav ul.menu-list li.menu-list-item.up {
 }
 
 .skill .progress .progress-bar {
-  background-color: #00363a;
+  background-color: #019494;
 }
 
 .skill-info {
@@ -583,7 +585,7 @@ nav ul.menu-list li.menu-list-item.up {
 .work-popup-title {
   font-weight: 500;
   text-transform: uppercase;
-  color: #00363a;
+  color: #019494;
   line-height: 2.5rem;
   font-family: "Roboto Mono", monospace;
   cursor: pointer;
@@ -607,7 +609,7 @@ nav ul.menu-list li.menu-list-item.up {
 }
 
 .popup-close:hover {
-  color: #00363a;
+  color: #019494;
   cursor: pointer;
 }
 
@@ -636,7 +638,7 @@ nav ul.menu-list li.menu-list-item.up {
 }
 
 .used-tools ul li:hover {
-  color: #00363a;
+  color: #019494;
   text-decoration: underline;
 }
 
@@ -714,7 +716,7 @@ nav ul.menu-list li.menu-list-item.up {
   width: 4rem;
   height: 4rem;
   background: #fff;
-  color: #00363a;
+  color: #019494;
   border-radius: 100px;
   line-height: 4.2rem;
   text-align: center;
@@ -754,18 +756,18 @@ nav ul.menu-list li.menu-list-item.up {
 }
 
 .footer:hover {
-  color: #00363a;
+  color: #019494;
 }
 
 .footer .fa-code {
-  color: #00363a;
+  color: #019494;
 }
 
 .footer .fa-headphones {
-  color: #00363a;
+  color: #019494;
 }
 .footer .fa-copyright {
-  color: #00363a;
+  color: #019494;
 }
 /* END FOOTER SECTION */
 
